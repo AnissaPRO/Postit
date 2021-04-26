@@ -1,0 +1,37 @@
+.rangement{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.BlocPostred{
+
+    
+    background-color: crimson;
+    width: 15%;
+    height: 15%;
+    text-align: center;
+    
+}
+
+.BlocPostyellow{
+
+    
+    background-color: burlywood;
+    width: 15%;
+    height: 15%;
+    text-align: center;
+    
+}
+
+.BlocPostblue{
+
+    
+    background-color: blue;
+    width: 15%;
+    height: 15%;
+    text-align: center;
+  
+}
